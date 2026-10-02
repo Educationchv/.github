@@ -32,13 +32,13 @@ To contribute to this repo: Fork > Edit > Pull Request. We review daily!
 ### 👩‍💻 Useful Resources
 - **Main Website:** [educationchv.org (Live)](https://bonymuseni.github.io/educationchv/)
 - **Our Programs:** Training & Workshops, Digital Health Education, Community Outreach
-- **Contact Us:** bonymuseni@gmail.com | Kericho, Kenya
-- **Donate:** Lipa na M-Pesa Paybill: **522522** | Account: EDUCATIONCHV
+- **Contact Us:** bonymuseni@gmail.com | Kakamega, Kenya
+- **Donate:** Lipa na M-Pesa Paybill: | Account: EDUCATIONCHV
 
 > **Docs:** All our training manuals and CHV guides are in the `/docs` folder of our repositories.
 
 ### 🍿 Fun Facts
-- Our team runs on **Kericho Tea and Mandazi** every morning! ☕
+- Our team runs on **Tea and Mandazi** every morning! ☕
 - We have trained over 100+ CHVs in 3 sub-counties.
 - Our favorite Swahili motto: **"Afya ni Elimu, Elimu ni Afya"** - Health is Education, Education is Health.
 
