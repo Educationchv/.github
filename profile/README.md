@@ -33,7 +33,7 @@ To contribute to this repo: Fork > Edit > Pull Request. We review daily!
 - **Main Website:** [educationchv.org (Live)](https://bonymuseni.github.io/educationchv/)
 - **Our Programs:** Training & Workshops, Digital Health Education, Community Outreach
 - **Contact Us:** bonymuseni@gmail.com | Kakamega, Kenya
-- **Donate:** Lipa na M-Pesa Paybill: | Account: EDUCATIONCHV
+- **Donate:** Lipa na M-Pesa number 0726575964 | Account: EDUCATIONCHV
 
 > **Docs:** All our training manuals and CHV guides are in the `/docs` folder of our repositories.
 
